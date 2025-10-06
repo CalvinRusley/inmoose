@@ -1,8 +1,8 @@
 [project]
-name = "inmoose"
-version = "0.8.2-dev"
+name = "inmoosepeapod"
+version = "0.8.2-dev0"
 license = "GPL-3.0-or-later"
-description = "InMoose: the Integrated Multi Omic Open Source Environment"
+description = "InMoose: the Integrated Multi Omic Open Source Environment, modified for use with PEAPOD"
 readme = "README.md"
 authors = [
   {name = "Guillaume Appé", email = "guillaume@epigenelabs.com"},

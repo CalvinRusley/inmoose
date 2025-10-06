@@ -1,6 +1,6 @@
 import importlib.metadata
 
-__version__ = importlib.metadata.version(__package__)
+__version__ = "0.8.2-dev0" # importlib.metadata.version(__package__)
 
 from . import edgepy as edgepy
 from . import pycombat as pycombat
